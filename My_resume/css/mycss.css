@@ -1,0 +1,95 @@
+*{margin: 0;padding: 0;}
+.bgcolors{
+	background-color: #fafafa;
+	}/**总体背景*/
+	.ulmax{
+		height: 70px;
+	}/**导航栏高度*/
+	.limax{
+		line-height: 60px;
+	}/**导航栏文字高度*/
+/* 	 .headtop{
+		margin-right: -150px;
+	} */
+	/**图片右边显示*/
+	/* .headleft{
+		margin-left: -150px;
+	} */
+	
+	.headw{
+		height: 500px;
+		width: 100%;
+	}
+	
+	.headleft2{
+		margin-left: -20px;
+	}
+	.headimg{
+		/* width:431px;
+		height: 680px; */
+		width: auto;
+		            height: auto;
+		            max-width: 100%;
+		            max-height: 100%;
+		float: right;
+	}/**图片显示宽高*/
+	
+	.nihao{
+		width: 30px;
+		height: 31px;
+		margin: 0 auto;
+	}
+	
+	.grxx{
+		background-color: white;
+	}
+	.grxxheight{
+		height: 720px;
+	}
+	.headbook{
+		width:700px;
+		height: 525px;
+		
+	}
+	.myfont{
+		font-size: 30px;
+		text-align: center;
+		font-weight:bolder;
+		line-height: 90px;
+	}
+	.myfont2{
+		font-size: 20px;
+		text-align: center;
+	}
+	.myp{
+		margin-top: 40px;
+	}
+	.bgb{
+		background-color: #222;
+color: white;
+	}
+	.bgl{
+		background-color: #eee;
+		width: 90%;
+		margin: 0 auto;
+	}
+	.bgl2{
+	
+		width: 90%;
+		margin: 0 auto;
+	}
+	.bgw{
+		background-color: white;
+	}
+	.bgg{
+		background-color:#eee;
+	}
+	.mkt{
+		margin: 40px;
+	}
+	.myfont3{
+		line-height: 40px;
+	}
+	.pad{
+		padding: -30px;
+	}
