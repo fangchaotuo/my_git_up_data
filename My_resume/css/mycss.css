@@ -4,17 +4,12 @@
 	}/**总体背景*/
 	.ulmax{
 		height: 70px;
+		line-height: 50px;
+		font-size: 0.8em;
 	}/**导航栏高度*/
 	.limax{
 		line-height: 60px;
-	}/**导航栏文字高度*/
-/* 	 .headtop{
-		margin-right: -150px;
-	} */
-	/**图片右边显示*/
-	/* .headleft{
-		margin-left: -150px;
-	} */
+	}
 	
 	.headw{
 		height: 500px;
